@@ -9,3 +9,5 @@ how using large-scale simulated data along with limited real ultrasound data aff
 
 The project utilized different methods such as data augmentation and transfer learning to approach the problem statement and provided 
 a strong introduction to machine learning.
+
+A preview of the thesis can be found [here](https://www.proquest.com/openview/5e5b84dd684c01f97aaaa8a7d7724319/1?pq-origsite=gscholar&cbl=18750&diss=y)
