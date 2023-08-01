@@ -1,5 +1,4 @@
-# ultrasound-segmentation
-Ultrasound bone image segmentation using U-Net in MATLAB
+# Ultrasound bone image segmentation using U-Net in MATLAB
 
 This project is my Master's thesis work where automated image segmentation was performed on both simulated and real Ultrasound images of
 bone surfaces using a specific convolutional neural network called a "U-net". 
